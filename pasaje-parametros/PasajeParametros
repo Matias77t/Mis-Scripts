@@ -1,4 +1,0 @@
-#!/bin/bash
-
-
-echo "Mi nombre es $1 y tengo $2 años"
